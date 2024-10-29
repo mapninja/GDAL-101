@@ -51,7 +51,6 @@ This workshop is intended to be run using Colab. To open the Python Notebook and
 ####  Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-#### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+#### Attribution
 
-#### This workshop was adapted for Colab from Sara Safavi's excellent GDAL Introduction: http://slides.sarasafavi.com/gdal/#/
+This workshop was adapted for Colab from Sara Safavi's excellent GDAL Introduction: http://slides.sarasafavi.com/gdal/#/
